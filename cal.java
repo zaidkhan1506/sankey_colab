@@ -14,7 +14,7 @@ Shree  m = new shree();
 
   System.out.println(m.multiply(b,c));
 Jiggar j = new Jiggar();
-  System.out.println(j.mod(b,c));
+  j.oddEven(a);
 
 Nihar h =new Nihar();
 
