@@ -7,14 +7,16 @@ int c = s.nextInt();
 
   Nikhil n = new Nikhil();
   System.out.println(n.add(b,c));
-Abhay s = new Abhay();
+  Abhay ab = new Abhay();
 
-  System.out.println(s.subtract(b,c));
-Shree  m = new shree(); 
+  System.out.println(ab.subtract(b,c));
+Shree  m = new Shree(); 
 
   System.out.println(m.multiply(b,c));
-Jiggar j = new Jiggar();
-  j.oddEven(a);
+  Jigar j = new Jigar();
+  j.oddEven(b);
+    j.oddEven(c);
+
 
 Nihar h =new Nihar();
 
