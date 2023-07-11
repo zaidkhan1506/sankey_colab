@@ -5,15 +5,20 @@ Addition a = new addition();
 Scanner s = new Scanner(System.in);
 int b=s.nextInt();
 int c = s.nextInt();
-c.add(b,c);
+
+  System.out.println(c.add(b,c));
 Abhay s = new Abhay();
-s.subtract(b,c);
+
+  System.out.println(s.subtract(b,c));
 Shree  m = new shree(); 
-m.multiply(b,c);
+
+  System.out.println(m.multiply(b,c));
 Jiggar j = new Jiggar();
-j.mod(b,c);
+  System.out.println(j.mod(b,c));
+
 Nihar h =new Nihar();
-h.div();
+
+  System.out.println(h.div(b,c));
 }
 }
 
